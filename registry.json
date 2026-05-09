@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Test Tools",
+    "index_url": "https://raw.githubusercontent.com/Knight-Ops/hello-wasm/main/forge-index.json",
+    "auth_strategy": "None"
+  },
+  {
+    "name": "Hacker News Tools",
+    "index_url": "https://raw.githubusercontent.com/Knight-Ops/hn-api-wasm/main/forge-index.json",
+    "auth_strategy": "None",
+  }
+]
