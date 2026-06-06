@@ -8,5 +8,10 @@
     "name": "Hacker News Tools",
     "index_url": "https://raw.githubusercontent.com/Knight-Ops/hn-api-wasm/main/forge-index.json",
     "auth_strategy": "None"
+  },
+  {
+    "name": "Hugging Face Papers",
+    "index_url": "https://git.basilisklabs.com/artemis/hf-papers-wasm/raw/branch/main/forge-index.json",
+    "auth_strategy": "None"
   }
 ]
